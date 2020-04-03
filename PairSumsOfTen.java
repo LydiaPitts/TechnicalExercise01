@@ -1,5 +1,5 @@
 /**
- * Lab 2 - Infinite Monkey Theorem
+ * VIP Technical Exercise
  * 
  * Authors: Lydia Pitts Created: 04/03/2020
  * 
